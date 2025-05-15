@@ -1,4 +1,3 @@
-# dark-web-search-engine
 # 🕵️ DarkIndex — A Safe and Community-Rated Dark Web Search Engine
 
 **DarkIndex** is an open-source search engine designed for the dark web (.onion sites).  
